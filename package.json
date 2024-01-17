@@ -1,0 +1,5 @@
+{
+  "dependencies": {
+    "react-microsoft-login-advanced": "^1.8.14"
+  }
+}
